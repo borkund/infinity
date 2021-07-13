@@ -1,0 +1,5 @@
+[23-Feb-2021 03:51:18 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/infinity/public_html/contact.php on line 9
+[23-Feb-2021 04:09:01 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/infinity/public_html/contact.php:21) in /home/infinity/public_html/contact.php on line 26
+[10-Mar-2021 05:55:08 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/infinity/public_html/contact.php:21) in /home/infinity/public_html/contact.php on line 26
+[10-Mar-2021 06:06:05 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/infinity/public_html/contact.php:21) in /home/infinity/public_html/contact.php on line 26
+[21-Mar-2021 13:11:25 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/infinity/public_html/contact.php:21) in /home/infinity/public_html/contact.php on line 26
